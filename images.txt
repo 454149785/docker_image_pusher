@@ -1,2 +1,1 @@
-matt9mg/php7.3
-matt9mg/php7.4
+kylekingcdn/php8.1-fpm-alpine
