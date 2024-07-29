@@ -1,2 +1,2 @@
-drupalci/php-7.3-apache
+matt9mg/php7.3
 matt9mg/php7.4
