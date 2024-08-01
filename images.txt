@@ -1,1 +1,1 @@
-kylekingcdn/php8.1-fpm-alpine
+nginx
