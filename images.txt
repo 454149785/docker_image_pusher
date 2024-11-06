@@ -1,7 +1,1 @@
-mongo:4
-minio/minio
-kibana:7.17.6
-logstash:7.17.6
-nginx:1.22
-redis:7
 mysql8.0.28
