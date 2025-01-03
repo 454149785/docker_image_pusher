@@ -1,1 +1,1 @@
-zookeeper:3.8.1
+busybox:latest
