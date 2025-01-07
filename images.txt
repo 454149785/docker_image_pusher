@@ -1,1 +1,1 @@
-busybox:latest
+metrics-server:0.6.1
