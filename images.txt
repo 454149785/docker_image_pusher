@@ -1,1 +1,2 @@
-osixia/phpldapadmin:latest
+maven:3.9.3-eclipse-temurin-17
+alpine:3.14
