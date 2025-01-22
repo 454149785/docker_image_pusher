@@ -1,1 +1,1 @@
-gcr.io/kaniko-project/executor:latest
+sonarsource/sonar-scanner-cli
