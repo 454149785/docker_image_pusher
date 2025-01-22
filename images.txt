@@ -1,1 +1,1 @@
-sonarsource/sonar-scanner-cli
+sonarqube:community
