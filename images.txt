@@ -1,2 +1,2 @@
-ubuntu:20.04
+sonarqube:10.3.0-community
 
