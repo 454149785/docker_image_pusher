@@ -1,1 +1,1 @@
-rabbitmq:latest
+openzipkin/zipkin:2.24
