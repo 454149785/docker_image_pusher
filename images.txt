@@ -1,1 +1,1 @@
-redis/redis-stack-server:latest
+golang:1.21-alpine
