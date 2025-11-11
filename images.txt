@@ -1,1 +1,1 @@
-docker.io/library/golang:1.23-alpine
+tomcat:9.0.56-jdk8
