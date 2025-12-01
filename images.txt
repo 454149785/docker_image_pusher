@@ -1,1 +1,1 @@
-jenkins:2.516.2
+jenkins/jenkins
