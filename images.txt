@@ -1,1 +1,1 @@
-golang:1.25
+debian:stable-slim
