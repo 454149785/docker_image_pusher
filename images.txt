@@ -1,1 +1,1 @@
-debian:bookworm
+php:5.6-fpm
